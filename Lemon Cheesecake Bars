@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Zesty Lemon Cheesecake Bars</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fffdf5;
+            color: #333;
+        }
+        h1 {
+            color: #e6ac00;
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            border-bottom: 2px solid #f0e6cc;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #e67300;
+            margin-top: 30px;
+            border-left: 5px solid #ffdb99;
+            padding-left: 15px;
+        }
+        .intro {
+            font-style: italic;
+            text-align: center;
+            color: #666;
+            margin-bottom: 30px;
+        }
+        img {
+            display: block;
+            max-width: 100%;
+            height: auto;
+            margin: 30px auto;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        ul, ol {
+            background-color: #fff;
+            padding: 20px 20px 20px 40px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        ol li {
+            padding-left: 10px;
+        }
+        .section {
+            margin-bottom: 40px;
+        }
+        .highlight {
+            background-color: #fff9e6;
+            padding: 2px 5px;
+            border-radius: 3px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Zesty Lemon Cheesecake Bars</h1>
+    
+    <p class="intro">These bright and creamy lemon cheesecake bars combine a buttery graham cracker crust with a tangy lemon filling for the perfect balance of sweet and tart. They're perfect for spring gatherings, summer picnics, or anytime you need a refreshing dessert!</p>
+    
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="Delicious lemon cheesecake bars with a golden crust and creamy filling topped with lemon zest">
+    
+    <div class="section">
+        <h2>Ingredients</h2>
+        <ul>
+            <li><span class="highlight">Graham Cracker Crust:</span> 2 cups graham cracker crumbs, 1/3 cup sugar, 1/2 cup melted butter</li>
+            <li><span class="highlight">Cheesecake Filling:</span> 3 packages (8 oz each) cream cheese, softened to room temperature</li>
+            <li><span class="highlight">Sweetener:</span> 1 cup granulated sugar</li>
+            <li><span class="highlight">Eggs:</span> 3 large eggs, at room temperature</li>
+            <li><span class="highlight">Lemon Flavoring:</span> 1/4 cup fresh lemon juice, 2 tablespoons lemon zest</li>
+            <li><span class="highlight">Other:</span> 1 teaspoon vanilla extract, 1/4 teaspoon salt</li>
+        </ul>
+    </div>
+    
+    <div class="section">
+        <h2>Instructions</h2>
+        <ol>
+            <li>Preheat your oven to 325°F (165°C). Line a 9×13-inch baking pan with parchment paper, leaving some overhang on the sides for easy removal.</li>
+            <li>Make the crust by combining graham cracker crumbs, sugar, and melted butter in a bowl. Press the mixture firmly into the bottom of the prepared pan. Bake for 10 minutes, then remove and let cool while preparing the filling.</li>
+            <li>In a large mixing bowl, beat the cream cheese until smooth and creamy. Add the sugar and continue beating until well combined.</li>
+            <li>Add eggs one at a time, beating well after each addition. Stir in the lemon juice, lemon zest, vanilla extract, and salt until just combined. Be careful not to overmix.</li>
+            <li>Pour the cheesecake filling over the cooled crust and spread evenly. Tap the pan gently on the counter to remove any air bubbles.</li>
+            <li>Bake for 35-40 minutes, or until the edges are set but the center still has a slight jiggle. Turn off the oven, crack the door open, and let the cheesecake cool in the oven for 1 hour.</li>
+            <li>Remove from the oven and cool completely at room temperature, then refrigerate for at least 4 hours or overnight.</li>
+            <li>Use the parchment paper overhang to lift the cheesecake out of the pan. Cut into bars, garnish with additional lemon zest if desired, and serve chilled.</li>
+        </ol>
+    </div>
+</body>
+</html>
